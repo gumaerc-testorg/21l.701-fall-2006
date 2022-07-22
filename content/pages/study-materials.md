@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the opening lines of Marianne Moore's poem "Poetry"
+  (1921)
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 6f0266e4-22bb-f2f9-f9ab-f31026e79a65
 ---

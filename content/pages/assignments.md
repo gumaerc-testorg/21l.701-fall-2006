@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: 'This section provides information on the three papers assigned for the
+  course: a seminar paper, a response paper, and a factoid paper.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3efa96ae-3c9b-ddaf-081e-7719d10e0cdf
 ---
 
-Each student in the class will be responsible for doing three papers for the course: one seminar paper, one response paper, and one factoid paper. To see the due dates for these assignments, view the [calendar]({{< baseurl >}}/pages/calendar).
+Each student in the class will be responsible for doing three papers for the course: one seminar paper, one response paper, and one factoid paper. To see the due dates for these assignments, view the {{% resource_link fabeee4f-b12d-1c5e-d472-85e09a8e7a10 "calendar" %}}.
 
 Class Report
 ------------
