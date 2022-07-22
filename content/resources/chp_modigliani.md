@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Anna Akhmatova
 uid: 26eccfbd-612f-5465-bbbe-56e97769b37f
 ---
 Anna Akhmatova by Amedeo Modigliani.
-
