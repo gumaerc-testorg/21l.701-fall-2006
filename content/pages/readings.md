@@ -51,10 +51,10 @@ Introductions
 
 Akhmatova Poems; Discussion and Biography
 
-Film: Aranovich, Semyon. [*The Anna Achmatova File*](http://imdb.com/title/tt0097743/)*.* 1989
+Film: Aranovich, Semyon. {{% resource_link "d9cc6728-0176-4ba0-9b3c-e401cf817283" "*The Anna Achmatova File*" %}}*.* 1989
 
 {{< tdclose >}}{{< tdopen >}}
-[Akhmatova, Anna](http://en.wikipedia.org/w/index.php?title=Anna_Akhmatova&oldid=64264377). "As White a Stone," "Cleopatra," "Courage," "The Grey-Eyed King," "I Don't Like Flowers," "Lot's Wife," "Muse," "Music," "Requiem," "Three Things," "The Last Toast," "To Boris," "Pasternak," "Why is this Century Worse," and "You'll Live, but I'll not…."
+{{% resource_link "5336dd60-c79c-4ec9-b02b-0a293539bac5" "Akhmatova, Anna" %}}. "As White a Stone," "Cleopatra," "Courage," "The Grey-Eyed King," "I Don't Like Flowers," "Lot's Wife," "Muse," "Music," "Requiem," "Three Things," "The Last Toast," "To Boris," "Pasternak," "Why is this Century Worse," and "You'll Live, but I'll not…."
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -65,7 +65,7 @@ Walt Whitman; T. S. Eliot; William Carlos Williams; Ezra Pound; Hilda Doolittle
 
 Whitman, Walt. "Crossing Brooklyn Ferry" and "To a Locomotive in Winter." In *Norton Anthology of Modern Poetry*. New York, NY: W.W. Norton, 1988. 
 
-Eliot, T. S. "[Hamlet and His Problems](http://www.bartleby.com/200/sw9.html)." In *The Sacred Wood.* London, UK: Methune, 1920.
+Eliot, T. S. "{{% resource_link "47e6baa4-8cab-4786-a227-d5fe71e1f00d" "Hamlet and His Problems" %}}." In *The Sacred Wood.* London, UK: Methune, 1920.
 
 \---. "Gerontion." In *Norton Anthology of Modern Poetry*. New York, NY: W.W. Norton, 1988. 
 
